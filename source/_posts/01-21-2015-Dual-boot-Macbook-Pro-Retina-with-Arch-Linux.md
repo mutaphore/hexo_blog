@@ -12,7 +12,7 @@ more:
 - True
 ---
 
-I am dual booting a MBPr with OSX and Arch Linux. For those new to Arch Linux, here are some WiFi related tips that I for a fresh install.
+I am dual booting a MBPr with OSX and Arch Linux. For those new to Arch Linux, here are some WiFi related tips that I for a clean install.
 
 <!-- more -->
 
