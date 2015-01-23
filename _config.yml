@@ -4,7 +4,7 @@
 
 # Site
 title: Dewei Chen
-subtitle: "Adventures in software, operating systems and my brain"
+subtitle: "Adventures in software, operating systems and the mind"
 description: description
 author: Dewei Chen
 email:
@@ -74,7 +74,7 @@ per_page: 5
 pagination_dir: page
 
 # Disqus
-disqus_shortname: mutaphore
+disqus_shortname: deweichen
 
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
